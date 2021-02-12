@@ -1,0 +1,12 @@
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\bin\Debug\netcoreapp5.0\RecursosHumanos.Core.deps.json
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\bin\Debug\netcoreapp5.0\RecursosHumanos.Core.dll
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\bin\Debug\netcoreapp5.0\ref\RecursosHumanos.Core.dll
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\bin\Debug\netcoreapp5.0\RecursosHumanos.Core.pdb
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\RecursosHumanos.Core.csprojAssemblyReference.cache
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\RecursosHumanos.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\RecursosHumanos.Core.AssemblyInfoInputs.cache
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\RecursosHumanos.Core.AssemblyInfo.cs
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\RecursosHumanos.Core.csproj.CoreCompileInputs.cache
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\RecursosHumanos.Core.dll
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\ref\RecursosHumanos.Core.dll
+C:\Users\wilborght\source\repos\RecursosHumanos\RecursosHumanos.Data\obj\Debug\netcoreapp5.0\RecursosHumanos.Core.pdb
