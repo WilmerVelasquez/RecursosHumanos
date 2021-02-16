@@ -14,7 +14,7 @@ namespace RecursosHumanos.Core.Domain
         public Horario()
         {
             RegistroIngreso = new HashSet<RegistroIngreso>();
-            IdHorario = new HashSet<Horario>();
+            Usuario = new HashSet<Usuario>();
         }
         [Key]
         [Display(Name ="Id Horario")]
